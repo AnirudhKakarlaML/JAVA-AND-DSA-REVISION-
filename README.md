@@ -37,6 +37,11 @@ This repository contains my Java revision and Data Structures & Algorithms pract
 - Sorting
 - Searching
 
+- Repo Structure[DSA CONCEPTS]
+- > Arrays:
+  > Arrays Algs[Linear Search , Binary Search , Reverse , Traversal/Input output]
+  > LC1295[Number Of Even Numbered Elements]
+
 ## Purpose
 
 This repository is part of my software engineering and AIML preparation journey. It serves as a structured record of my Java fundamentals revision and DSA practice.
