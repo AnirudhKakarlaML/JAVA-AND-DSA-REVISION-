@@ -41,6 +41,9 @@ This repository contains my Java revision and Data Structures & Algorithms pract
 - > Arrays:
   > Arrays Algs[Linear Search , Binary Search , Reverse , Traversal/Input output]
   > LC1295[Number Of Even Numbered Elements]
+  > array_2--->Second Largest Element And Checking Whether An Array Is Sorted
+  > arry_3----->Pairs And Subarray
+    
 
 ## Purpose
 
