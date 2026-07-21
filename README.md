@@ -43,7 +43,8 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > LC1295[Number Of Even Numbered Elements]
   > array_2--->Second Largest Element And Checking Whether An Array Is Sorted
   > arry_3----->Pairs And Subarray
-    
+  >Revision[Concept Revision]
+  > 
 
 ## Purpose
 
