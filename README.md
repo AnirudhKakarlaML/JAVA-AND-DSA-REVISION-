@@ -44,7 +44,9 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > array_2--->Second Largest Element And Checking Whether An Array Is Sorted
   > arry_3----->Pairs And Subarray
   >Revision[Concept Revision]
-  > 
+  > Revision2[Concepts Revision]
+  > Revision3[Concept Revision]
+  > LC53[KADANES ALGO]
 
 ## Purpose
 
