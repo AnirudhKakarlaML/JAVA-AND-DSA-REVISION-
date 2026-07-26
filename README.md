@@ -47,6 +47,7 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > Revision2[Concepts Revision]
   > Revision3[Concept Revision]
   > LC53[KADANES ALGO]
+  > Trapping RainWater LC
 
 ## Purpose
 
