@@ -47,11 +47,11 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > Revision2[Concepts Revision]
   > Revision3[Concept Revision]
   > LC53[KADANES ALGO]
-  > Trapping RainWater LC
-  > LC 283
-  > ->LC53
-  LC74
-  > LC27
+  > LC 283[Move Zeos]
+  > ->LC53[Max SUbarray]
+  >LC74[Trapping Rain Water]
+  > LC27[Remove Elemet]
+  > lc1480[Running Sum]
 
 ## Purpose
 
