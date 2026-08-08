@@ -52,6 +52,10 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   >LC74[Trapping Rain Water]
   > LC27[Remove Elemet]
   > lc1480[Running Sum]
+  > ->Pivot Index
+  > Middle Element
+  > Left And Right Running Sum
+  > LC 709
 
 ## Purpose
 
