@@ -56,6 +56,8 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > Middle Element
   > Left And Right Running Sum
   > LC 709
+  > bubble and selection sort
+  > lc217
 
 ## Purpose
 
