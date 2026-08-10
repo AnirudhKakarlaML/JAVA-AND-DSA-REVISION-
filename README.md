@@ -58,6 +58,10 @@ This repository contains my Java revision and Data Structures & Algorithms pract
   > LC 709
   > bubble and selection sort
   > lc217
+  > lc1913
+  > lc561
+  > lc905
+  > lc628
 
 ## Purpose
 
