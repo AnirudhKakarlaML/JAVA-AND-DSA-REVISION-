@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 29 · **Main topic so far:** Arrays
+**LeetCode problems solved here:** 35 · **Main topic so far:** Arrays
 
 ---
 
@@ -48,6 +48,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [PairsInArray.java](02-arrays/PairsInArray.java) | Printing all pairs |
 | [BinarySearchReversePairsSubarrays.java](02-arrays/BinarySearchReversePairsSubarrays.java) | Binary search, two-pointer reverse, pairs, subarrays |
 | [PrefixSum.java](02-arrays/PrefixSum.java) | Prefix sum array |
+| [KadanesAlgorithm.java](02-arrays/KadanesAlgorithm.java) | Kadane's algorithm for max subarray sum |
 | [MaxSubarraySum_BruteForceAndPrefix.java](02-arrays/MaxSubarraySum_BruteForceAndPrefix.java) | Max subarray sum: brute force, then prefix sum |
 
 ## 03 · Searching & Sorting
@@ -58,6 +59,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [BubbleSort.java](03-searching-sorting/BubbleSort.java) | Bubble sort |
 | [SelectionSort.java](03-searching-sorting/SelectionSort.java) | Selection sort |
 | [BubbleAndSelectionSort.java](03-searching-sorting/BubbleAndSelectionSort.java) | Bubble and selection sort together |
+| [BubbleAndSelectionSort_Practice.java](03-searching-sorting/BubbleAndSelectionSort_Practice.java) | Bubble and selection sort, practice rewrite |
 | [InsertionSort.java](03-searching-sorting/InsertionSort.java) | Insertion sort |
 
 ## 04 · 2D Arrays
@@ -67,6 +69,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [TwoDimensionalArrays.java](04-2d-arrays/TwoDimensionalArrays.java) | Reading and printing a matrix |
 | [SpiralMatrix.java](04-2d-arrays/SpiralMatrix.java) | Spiral order traversal |
 | [DiagonalSum.java](04-2d-arrays/DiagonalSum.java) | Primary + secondary diagonal sum |
+| [RowSums.java](04-2d-arrays/RowSums.java) | Sum of each row into a list |
 
 ## 05 · Revision
 
@@ -102,8 +105,10 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 485 | Max Consecutive Ones | [LC0485](leetcode/arrays/LC0485_MaxConsecutiveOnes.java) |
 | 561 | Array Partition | [LC0561](leetcode/arrays/LC0561_ArrayPartition.java) |
 | 628 | Maximum Product of Three Numbers | [LC0628](leetcode/arrays/LC0628_MaximumProductOfThreeNumbers.java) |
+| 905 | Sort Array By Parity | [LC0905](leetcode/arrays/LC0905_SortArrayByParity.java) |
 | 1295 | Find Numbers with Even Number of Digits | [LC1295](leetcode/arrays/LC1295_FindNumbersWithEvenNumberOfDigits.java) |
 | 1480 | Running Sum of 1d Array | [LC1480](leetcode/arrays/LC1480_RunningSumOf1dArray.java) |
+| 1512 | Number of Good Pairs | [LC1512](leetcode/arrays/LC1512_NumberOfGoodPairs.java) |
 | 1913 | Maximum Product Difference Between Two Pairs | [LC1913](leetcode/arrays/LC1913_MaximumProductDifferenceBetweenTwoPairs.java) |
 | 1920 | Build Array from Permutation | [LC1920](leetcode/arrays/LC1920_BuildArrayFromPermutation.java) |
 | 1991 | Find the Middle Index in Array (pivot index) | [LC1991](leetcode/arrays/LC1991_FindTheMiddleIndexInArray.java) |
@@ -123,8 +128,12 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 59 | Spiral Matrix II | [LC0059](leetcode/matrix/LC0059_SpiralMatrixII.java) |
 | 766 | Toeplitz Matrix | [LC0766](leetcode/matrix/LC0766_ToeplitzMatrix.java) |
 | 832 | Flipping an Image | [LC0832](leetcode/matrix/LC0832_FlippingAnImage.java) |
+| 867 | Transpose Matrix | [LC0867](leetcode/matrix/LC0867_TransposeMatrix.java) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | [LC1351](leetcode/matrix/LC1351_CountNegativeNumbersInSortedMatrix.java) |
 | 1672 | Richest Customer Wealth | [LC1672](leetcode/matrix/LC1672_RichestCustomerWealth.java) |
+| 2022 | Convert 1D Array Into 2D Array | [LC2022](leetcode/matrix/LC2022_Convert1DArrayInto2DArray.java) |
+| 2319 | Check if Matrix Is X-Matrix | [LC2319](leetcode/matrix/LC2319_CheckIfMatrixIsXMatrix.java) |
+| 2643 | Row With Maximum Ones | [LC2643](leetcode/matrix/LC2643_RowWithMaximumOnes.java) |
 
 ---
 
