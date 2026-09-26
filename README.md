@@ -15,6 +15,7 @@ JAVA-AND-DSA-REVISION-/
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
 ├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
 ├── 05-revision/             Revision files where I re-solve older concepts
+├── 06-strings/              String methods, StringBuilder, palindromes            
 └── leetcode/
     ├── arrays/
     ├── strings/
