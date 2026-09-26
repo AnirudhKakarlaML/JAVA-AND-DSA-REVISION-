@@ -107,6 +107,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 628 | Maximum Product of Three Numbers | [LC0628](leetcode/arrays/LC0628_MaximumProductOfThreeNumbers.java) |
 | 905 | Sort Array By Parity | [LC0905](leetcode/arrays/LC0905_SortArrayByParity.java) |
 | 1295 | Find Numbers with Even Number of Digits | [LC1295](leetcode/arrays/LC1295_FindNumbersWithEvenNumberOfDigits.java) |
+  | 1470 | Shuffle the Array | [LC1470](leetcode/arrays/LC1470_ShuffleTheArray.java) |
 | 1480 | Running Sum of 1d Array | [LC1480](leetcode/arrays/LC1480_RunningSumOf1dArray.java) |
 | 1512 | Number of Good Pairs | [LC1512](leetcode/arrays/LC1512_NumberOfGoodPairs.java) |
 | 1913 | Maximum Product Difference Between Two Pairs | [LC1913](leetcode/arrays/LC1913_MaximumProductDifferenceBetweenTwoPairs.java) |
