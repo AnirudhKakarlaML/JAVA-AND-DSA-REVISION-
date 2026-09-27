@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 35 · **Main topic so far:** Arrays
+**LeetCode problems solved here:** 38 · **Main topic so far:** Arrays
 
 ---
 
@@ -51,6 +51,8 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [PrefixSum.java](02-arrays/PrefixSum.java) | Prefix sum array |
 | [KadanesAlgorithm.java](02-arrays/KadanesAlgorithm.java) | Kadane's algorithm for max subarray sum |
 | [MaxSubarraySum_BruteForceAndPrefix.java](02-arrays/MaxSubarraySum_BruteForceAndPrefix.java) | Max subarray sum: brute force, then prefix sum |
+| [TwoPointers.java](02-arrays/TwoPointers.java) | Two-pointer technique: reverse an array in place |
+| [SlidingWindow.java](02-arrays/SlidingWindow.java) | Sliding window: max sum of a subarray of size k |
 
 ## 03 · Searching & Sorting
 
@@ -90,7 +92,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 
 | # | Problem | File |
 |---|---|---|
-| 1 | Two Sum | [LC0001_TwoSum.java](leetcode/arrays/LC0001_TwoSum.java) |
+| 1 | Two Sum | [Brute force O(n²)](leetcode/arrays/LC0001_TwoSum.java) · [HashMap O(n)](leetcode/arrays/LC0001_Twosum_HashMap.java) |
 | 26 | Remove Duplicates from Sorted Array | [LC0026](leetcode/arrays/LC0026_RemoveDuplicatesFromSortedArray.java) |
 | 27 | Remove Element | [LC0027](leetcode/arrays/LC0027_RemoveElement.java) |
 | 35 | Search Insert Position | [LC0035](leetcode/arrays/LC0035_SearchInsertPosition.java) |
@@ -108,11 +110,13 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 628 | Maximum Product of Three Numbers | [LC0628](leetcode/arrays/LC0628_MaximumProductOfThreeNumbers.java) |
 | 905 | Sort Array By Parity | [LC0905](leetcode/arrays/LC0905_SortArrayByParity.java) |
 | 1295 | Find Numbers with Even Number of Digits | [LC1295](leetcode/arrays/LC1295_FindNumbersWithEvenNumberOfDigits.java) |
-  | 1470 | Shuffle the Array | [LC1470](leetcode/arrays/LC1470_ShuffleTheArray.java) |
+| 1431 | Kids With the Greatest Number of Candies | [LC1431](leetcode/arrays/LC1431_KidsWithGreatestNumberOfCandies.java) |
+| 1470 | Shuffle the Array | [LC1470](leetcode/arrays/LC1470_ShuffleTheArray.java) |
 | 1480 | Running Sum of 1d Array | [LC1480](leetcode/arrays/LC1480_RunningSumOf1dArray.java) |
 | 1512 | Number of Good Pairs | [LC1512](leetcode/arrays/LC1512_NumberOfGoodPairs.java) |
 | 1913 | Maximum Product Difference Between Two Pairs | [LC1913](leetcode/arrays/LC1913_MaximumProductDifferenceBetweenTwoPairs.java) |
 | 1920 | Build Array from Permutation | [LC1920](leetcode/arrays/LC1920_BuildArrayFromPermutation.java) |
+| 1929 | Concatenation of Array | [LC1929](leetcode/arrays/LC1929_ConcatenationOfArray.java) |
 | 1991 | Find the Middle Index in Array (pivot index) | [LC1991](leetcode/arrays/LC1991_FindTheMiddleIndexInArray.java) |
 | 2574 | Left and Right Sum Differences | [LC2574](leetcode/arrays/LC2574_LeftAndRightSumDifferences.java) |
 

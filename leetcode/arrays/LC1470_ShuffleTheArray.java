@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int[] shuffle(int[] nums, int n) {
         int shuffled[] = new int[nums.length];
         int count = 0;
@@ -19,4 +19,4 @@ class Solution {
        
         return shuffled;
     }
-}
+}*/
