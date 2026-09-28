@@ -1,4 +1,5 @@
-/*class Solution {
+public class LC1470_ShuffleTheArray {
+class Solution {
     public int[] shuffle(int[] nums, int n) {
         int shuffled[] = new int[nums.length];
         int count = 0;
@@ -19,4 +20,5 @@
        
         return shuffled;
     }
-}*/
+}
+}

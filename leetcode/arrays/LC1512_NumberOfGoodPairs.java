@@ -1,4 +1,4 @@
-/*public class LC1512_NumberOfGoodPairs {
+public class LC1512_NumberOfGoodPairs {
     class Solution {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
@@ -13,6 +13,6 @@
     }
 }
     
-}*/
+}
 
 

@@ -1,4 +1,4 @@
-/*public class LC0059_SpiralMatrixII {
+public class LC0059_SpiralMatrixII {
     class Solution {
     public int[][] generateMatrix(int n) {
         int matrix[][] = new int[n][n];
@@ -34,5 +34,5 @@
 
     }
 }
-}*/
+}
 

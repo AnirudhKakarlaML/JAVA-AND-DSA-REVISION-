@@ -1,4 +1,4 @@
-/*public class LC0001_TwoSum {
+public class LC0001_TwoSum {
     class Solution {
     public int[] twoSum(int[] nums, int target) {
       
@@ -18,5 +18,5 @@
     }
 }
     
-}*/
+}
 

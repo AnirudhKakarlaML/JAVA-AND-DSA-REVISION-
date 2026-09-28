@@ -27,7 +27,8 @@ Constraints:
 1 <= nums.length <= 500
 1 <= nums[i] <= 105*/
 
-/*class Solution {
+public class LC1295_FindNumbersWithEvenNumberOfDigits {
+class Solution {
     public int findNumbers(int[] nums) {
         int dig = 0;
         for(int i = 0 ; i<nums.length ; i++){
@@ -44,5 +45,6 @@ Constraints:
         }
         return dig;
     }
-}*/
+}
+}
 //LC 1295[PB-1 DSA JOURNEY]

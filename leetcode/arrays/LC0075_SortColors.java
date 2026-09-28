@@ -1,4 +1,5 @@
-/*class Solution {
+public class LC0075_SortColors {
+class Solution {
     public void sortColors(int[] nums) {
         for(int i = 0 ; i < nums.length - 1 ; i++){
             int minpos = i;
@@ -14,4 +15,5 @@
        
         
     }
-}*/
+}
+}

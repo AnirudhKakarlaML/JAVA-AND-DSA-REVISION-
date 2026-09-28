@@ -1,4 +1,4 @@
-/*public class LC0042_TrappingRainWater {
+public class LC0042_TrappingRainWater {
     class Solution {
     public int trap(int[] height) {
         //Step-1[Create Boundaries]
@@ -24,4 +24,4 @@
     }
 }
     
-}*/
+}

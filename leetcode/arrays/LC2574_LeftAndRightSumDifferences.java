@@ -1,4 +1,4 @@
-/*public class LC2574_LeftAndRightSumDifferences {
+public class LC2574_LeftAndRightSumDifferences {
     class Solution {
     public int[] leftRightDifference(int[] nums) {
         int left[] = new int[nums.length];
@@ -21,5 +21,5 @@
 }
     
 
-}*/
+}
 

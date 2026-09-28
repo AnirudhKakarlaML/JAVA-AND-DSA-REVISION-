@@ -1,4 +1,4 @@
-/*public class LC0027_RemoveElement {
+public class LC0027_RemoveElement {
     class Solution {
     public int removeElement(int[] nums, int val) {
         int i = 0;
@@ -8,8 +8,9 @@
                 nums[i] = nums[j];
                 nums[j] = temp;
                 i++;
-                
             }
-        }}}}*/
-    
-
+        }
+        return i;
+    }
+}
+}

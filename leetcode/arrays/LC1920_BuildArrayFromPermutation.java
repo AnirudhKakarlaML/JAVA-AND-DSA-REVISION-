@@ -1,4 +1,4 @@
-/*public class LC1920_BuildArrayFromPermutation {
+public class LC1920_BuildArrayFromPermutation {
     class Solution {
     public int[] buildArray(int[] nums) {
         int permuation[] = new int[nums.length];
@@ -8,4 +8,4 @@
         return permuation;
     }
 }
-}*/
+}

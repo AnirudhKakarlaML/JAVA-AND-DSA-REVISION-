@@ -1,4 +1,4 @@
-/*public class LC1351_CountNegativeNumbersInSortedMatrix{
+public class LC1351_CountNegativeNumbersInSortedMatrix{
     class Solution {
     public int countNegatives(int[][] matrix) {
         int count = 0;
@@ -12,4 +12,4 @@
         return count;
     }
 }
-}*/
+}
