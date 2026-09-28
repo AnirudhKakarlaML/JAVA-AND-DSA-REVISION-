@@ -1,4 +1,4 @@
-/*public class LC0053_MaximumSubarray {
+public class LC0053_MaximumSubarray {
     class Solution {
     public int maxSubArray(int[] nums) {
         int max=Integer.MIN_VALUE;
@@ -17,6 +17,6 @@
     }
 }
     
-}*/
+}
 
 

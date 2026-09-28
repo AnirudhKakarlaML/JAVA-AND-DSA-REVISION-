@@ -1,4 +1,4 @@
-/*import java.util.Arrays;
+import java.util.Arrays;
 
 public class LC0561_ArrayPartition {
     class Solution {
@@ -13,4 +13,4 @@ public class LC0561_ArrayPartition {
     }
 }
     
-}*/
+}

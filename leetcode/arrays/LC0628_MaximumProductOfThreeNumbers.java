@@ -1,4 +1,4 @@
-/*import java.util.Arrays;
+import java.util.Arrays;
 
 public class LC0628_MaximumProductOfThreeNumbers {
     class Solution {
@@ -13,4 +13,4 @@ public class LC0628_MaximumProductOfThreeNumbers {
         return Math.max(max1, max2);
     }
 }
-}*/
+}

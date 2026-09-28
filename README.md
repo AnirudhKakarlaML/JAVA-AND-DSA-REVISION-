@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 38 · **Main topic so far:** Arrays
+**LeetCode problems solved here:** 39 · **Main topic so far:** Arrays
 
 ---
 
@@ -118,6 +118,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 1920 | Build Array from Permutation | [LC1920](leetcode/arrays/LC1920_BuildArrayFromPermutation.java) |
 | 1929 | Concatenation of Array | [LC1929](leetcode/arrays/LC1929_ConcatenationOfArray.java) |
 | 1991 | Find the Middle Index in Array (pivot index) | [LC1991](leetcode/arrays/LC1991_FindTheMiddleIndexInArray.java) |
+| 2460 | Apply Operations to an Array | [LC2460](leetcode/arrays/LC2460_ApplyOperationsToAnArray.java) |
 | 2574 | Left and Right Sum Differences | [LC2574](leetcode/arrays/LC2574_LeftAndRightSumDifferences.java) |
 
 ### Strings

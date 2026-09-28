@@ -1,5 +1,7 @@
-/*public class LC0832_FlippingAnImage{
-    int rows = image.length;
+public class LC0832_FlippingAnImage {
+    class Solution {
+    public int[][] flipAndInvertImage(int[][] image) {
+        int rows = image.length;
         int cols = image[0].length;
         int[][] result = new int[rows][cols];
 
@@ -16,5 +18,4 @@
         return result;
     }
 }
-    
-}*/
+}

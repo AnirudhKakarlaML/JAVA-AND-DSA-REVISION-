@@ -59,7 +59,17 @@
 
 //Binomial Coefficients
 public class BinomialCoefficient{
-    public static int factorial{
-        
+    public static int factorial(int n){
+        int fact = 1;
+        for(int i = 1 ; i <= n ; i++){
+            fact *= i;
+        }
+        return fact;
+    }
+    public static int binCoeff(int n , int r){
+        return factorial(n) / (factorial(r) * factorial(n - r));
+    }
+    public static void main(String[] args) {
+        System.out.println(binCoeff(5, 2)); // 10
     }
 }

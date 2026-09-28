@@ -1,4 +1,4 @@
-/*import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.List;
 
 public class LC1431_KidsWithGreatestNumberOfCandies{
@@ -23,4 +23,4 @@ public class LC1431_KidsWithGreatestNumberOfCandies{
         return list;
     }
 }
-}*/
+}

@@ -1,4 +1,4 @@
-/*public class LC0344_ReverseString {
+public class LC0344_ReverseString {
     class Solution {
     public void reverseString(char[] s) {
         int start = 0;
@@ -12,5 +12,5 @@
         }
     }
 }
-}*/
+}
 

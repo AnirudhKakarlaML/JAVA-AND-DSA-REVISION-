@@ -1,4 +1,4 @@
-/*import java.util.Arrays;
+import java.util.Arrays;
 
 public class LC0217_ContainsDuplicate {
     class Solution {
@@ -17,4 +17,4 @@ public class LC0217_ContainsDuplicate {
     }
 }
     
-}*/
+}

@@ -1,4 +1,4 @@
-/*public class LC0905_SortArrayByParity {
+public class LC0905_SortArrayByParity {
     class Solution {
     public int[] sortArrayByParity(int[] arr) {
         
@@ -15,4 +15,4 @@
     }
 }
     
-}*/
+}

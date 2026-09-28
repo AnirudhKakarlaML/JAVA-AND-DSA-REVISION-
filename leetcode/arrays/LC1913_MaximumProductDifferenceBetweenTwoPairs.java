@@ -1,4 +1,4 @@
-/*import java.util.Arrays;
+import java.util.Arrays;
 
 public class LC1913_MaximumProductDifferenceBetweenTwoPairs {
     class Solution {
@@ -10,5 +10,5 @@ public class LC1913_MaximumProductDifferenceBetweenTwoPairs {
     }
 }
     
-}*/
+}
 

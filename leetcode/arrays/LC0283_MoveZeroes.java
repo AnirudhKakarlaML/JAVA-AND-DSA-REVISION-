@@ -1,4 +1,4 @@
-/*public class LC0283_MoveZeroes {
+public class LC0283_MoveZeroes {
     class Solution {
     public void moveZeroes(int[] nums) {
         int i = 0 ; 
@@ -12,5 +12,5 @@
         }
     }
     
-}}*/
+}}
 

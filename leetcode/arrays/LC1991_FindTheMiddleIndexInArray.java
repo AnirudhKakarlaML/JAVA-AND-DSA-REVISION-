@@ -1,4 +1,4 @@
-/*public class LC1991_FindTheMiddleIndexInArray {
+public class LC1991_FindTheMiddleIndexInArray {
     class Solution {
     public int findMiddleIndex(int[] nums) {
         int left[] = new int[nums.length];
@@ -23,4 +23,4 @@
 
     }
 }
-}*/
+}

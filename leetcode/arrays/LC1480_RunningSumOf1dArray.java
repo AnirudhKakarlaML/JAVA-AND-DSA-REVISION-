@@ -1,4 +1,4 @@
-/*public class LC1480_RunningSumOf1dArray {
+public class LC1480_RunningSumOf1dArray {
     class Solution {
     public int[] runningSum(int[] nums) {
         int prefix[] = new int[nums.length];
@@ -9,4 +9,4 @@
         return prefix;
     }
 }
-}*/
+}

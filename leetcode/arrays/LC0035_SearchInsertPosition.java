@@ -1,4 +1,4 @@
-/*public class LC0035_SearchInsertPosition {
+public class LC0035_SearchInsertPosition {
     class Solution {
     public int searchInsert(int[] nums, int target) {
         int start = 0;
@@ -19,4 +19,4 @@
     }
 }
     
-}*/
+}

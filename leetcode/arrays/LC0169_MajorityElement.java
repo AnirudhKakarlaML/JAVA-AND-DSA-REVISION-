@@ -1,4 +1,4 @@
-/*public class LC0169_MajorityElement {
+public class LC0169_MajorityElement {
     class Solution {
     public int majorityElement(int[] nums) {
        int count = 0 ; 
@@ -18,4 +18,4 @@
         
     }
 }
-}*/
+}
