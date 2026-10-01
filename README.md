@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 40 · **Current topic:** Strings
+**LeetCode problems solved here:** 41 · **Current topic:** Strings
 
 ---
 
@@ -147,6 +147,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 766 | Toeplitz Matrix | [LC0766](leetcode/matrix/LC0766_ToeplitzMatrix.java) |
 | 832 | Flipping an Image | [LC0832](leetcode/matrix/LC0832_FlippingAnImage.java) |
 | 867 | Transpose Matrix | [LC0867](leetcode/matrix/LC0867_TransposeMatrix.java) |
+| 1102 | Path With Maximum Minimum Value | [LC1102](leetcode/matrix/LC1102_PathWithMaximumMinimumValue.java) |
 | 1351 | Count Negative Numbers in a Sorted Matrix | [LC1351](leetcode/matrix/LC1351_CountNegativeNumbersInSortedMatrix.java) |
 | 1672 | Richest Customer Wealth | [LC1672](leetcode/matrix/LC1672_RichestCustomerWealth.java) |
 | 2022 | Convert 1D Array Into 2D Array | [LC2022](leetcode/matrix/LC2022_Convert1DArrayInto2DArray.java) |
