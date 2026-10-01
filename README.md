@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 39 · **Main topic so far:** Arrays
+**LeetCode problems solved here:** 40 · **Current topic:** Strings
 
 ---
 
@@ -15,7 +15,7 @@ JAVA-AND-DSA-REVISION-/
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
 ├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
 ├── 05-revision/             Revision files where I re-solve older concepts
-├── 06-strings/              String methods, StringBuilder, palindromes            
+├── 06-strings/              String methods, StringBuilder, palindromes, shortest path
 └── leetcode/
     ├── arrays/
     ├── strings/
@@ -84,6 +84,16 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [Revision04_KadaneAndPrefixSum.java](05-revision/Revision04_KadaneAndPrefixSum.java) | Max subarray: prefix sum and Kadane's algorithm |
 | [Revision05_SubarraysAndMaxSum.java](05-revision/Revision05_SubarraysAndMaxSum.java) | Printing subarrays; max subarray sum O(n³) → O(n²) → Kadane |
 
+## 06 · Strings
+
+| File | Topic |
+|---|---|
+| [StringBasics.java](06-strings/StringBasics.java) | length, charAt, common methods, `equals` vs `==`, StringBuilder reverse, palindrome |
+| [Strings.java](06-strings/Strings.java) | Lecture notes: string creation, immutability, length, concatenation, charAt |
+| [PalindromeCheck.java](06-strings/PalindromeCheck.java) | Palindrome check by building the reversed string (own version) |
+| [OptimizedpalindromeCheck.java](06-strings/OptimizedpalindromeCheck.java) | Palindrome check with two pointers, O(n) time, O(1) space |
+| [ShortestPath.java](06-strings/ShortestPath.java) | Shortest (straight-line) distance from a direction string of N/S/E/W moves |
+
 ---
 
 ## LeetCode
@@ -127,6 +137,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 |---|---|---|
 | 344 | Reverse String | [LC0344](leetcode/strings/LC0344_ReverseString.java) |
 | 709 | To Lower Case | [LC0709](leetcode/strings/LC0709_ToLowerCase.java) |
+| 1108 | Defanging an IP Address | [LC1108](leetcode/strings/LC1108_DefangingAnIPAddress.java) |
 
 ### Matrix
 
