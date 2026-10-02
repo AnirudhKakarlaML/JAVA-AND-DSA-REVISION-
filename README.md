@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 40 · **Current topic:** Strings
+**LeetCode problems solved here:** 42 · **Current topic:** Strings
 
 ---
 
@@ -138,6 +138,8 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 344 | Reverse String | [LC0344](leetcode/strings/LC0344_ReverseString.java) |
 | 709 | To Lower Case | [LC0709](leetcode/strings/LC0709_ToLowerCase.java) |
 | 1108 | Defanging an IP Address | [LC1108](leetcode/strings/LC1108_DefangingAnIPAddress.java) |
+| 1768 | Merge Strings Alternately | [LC1768](leetcode/strings/LC1768_MergeStringsAlternately.java) |
+| 2011 | Final Value of Variable After Performing Operations | [LC2011](leetcode/strings/LC2011_FinalValueOfVariableAfterPerformingOperations.java) |
 
 ### Matrix
 
