@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 42 · **Current topic:** Strings
+**LeetCode problems solved here:** 43 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
 ---
 
@@ -15,14 +15,16 @@ JAVA-AND-DSA-REVISION-/
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
 ├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
 ├── 05-revision/             Revision files where I re-solve older concepts
-├── 06-strings/              String methods, StringBuilder, palindromes, shortest path
-└── leetcode/
-    ├── arrays/
-    ├── strings/
-    └── matrix/
+├── 06-strings/              String methods, comparison, substring, StringBuilder, palindromes, compression
+├── leetcode/
+│   ├── arrays/
+│   ├── strings/
+│   └── matrix/
+└── geeksforgeeks/
+    └── strings/
 ```
 
-LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded to 4 digits, so they sort in order.
+LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded to 4 digits, so they sort in order. GeeksforGeeks files end in `GFG`.
 
 ---
 
@@ -93,6 +95,12 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [PalindromeCheck.java](06-strings/PalindromeCheck.java) | Palindrome check by building the reversed string (own version) |
 | [OptimizedpalindromeCheck.java](06-strings/OptimizedpalindromeCheck.java) | Palindrome check with two pointers, O(n) time, O(1) space |
 | [ShortestPath.java](06-strings/ShortestPath.java) | Shortest (straight-line) distance from a direction string of N/S/E/W moves |
+| [Substring.java](06-strings/Substring.java) | Substring by building char by char vs `substring()` |
+| [StringComparision.java](06-strings/StringComparision.java) | Comparing strings: why `==` fails, `equals()` for content |
+| [LargestString.java](06-strings/LargestString.java) | Lexicographically largest string in an array with `compareTo()` |
+| [Stringbuilderpractice.java](06-strings/Stringbuilderpractice.java) | StringBuilder: appending a–z |
+| [ConvertToupperCase.java](06-strings/ConvertToupperCase.java) | Capitalize the first letter of each word with StringBuilder |
+| [CompressString.java](06-strings/CompressString.java) | String compression: `aabbcc` → `a2b2c2` |
 
 ---
 
@@ -140,6 +148,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 1108 | Defanging an IP Address | [LC1108](leetcode/strings/LC1108_DefangingAnIPAddress.java) |
 | 1768 | Merge Strings Alternately | [LC1768](leetcode/strings/LC1768_MergeStringsAlternately.java) |
 | 2011 | Final Value of Variable After Performing Operations | [LC2011](leetcode/strings/LC2011_FinalValueOfVariableAfterPerformingOperations.java) |
+| 3110 | Score of a String | [LC3110](leetcode/strings/LC3110_ScoreOfAString.java) |
 
 ### Matrix
 
@@ -154,6 +163,16 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 2022 | Convert 1D Array Into 2D Array | [LC2022](leetcode/matrix/LC2022_Convert1DArrayInto2DArray.java) |
 | 2319 | Check if Matrix Is X-Matrix | [LC2319](leetcode/matrix/LC2319_CheckIfMatrixIsXMatrix.java) |
 | 2643 | Row With Maximum Ones | [LC2643](leetcode/matrix/LC2643_RowWithMaximumOnes.java) |
+
+---
+
+## GeeksforGeeks
+
+### Strings
+
+| Problem | File |
+|---|---|
+| Check if a string has more vowels or consonants (Yes / No / Same) | [CheckConsonantsAndVowelsGFG.java](geeksforgeeks/strings/CheckConsonantsAndVowelsGFG.java) |
 
 ---
 
