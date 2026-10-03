@@ -1,6 +1,6 @@
 # Java & DSA Revision
 
-My Java fundamentals and Data Structures & Algorithms practice, written in Java, as part of my software engineering and AI/ML placement preparation.
+My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
 **LeetCode problems solved here:** 43 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
