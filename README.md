@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 44 · **GeeksforGeeks:** 1 · **Current topic:** Strings
+**LeetCode problems solved here:** 47 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
 ---
 
@@ -101,6 +101,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [Stringbuilderpractice.java](06-strings/Stringbuilderpractice.java) | StringBuilder: appending a–z |
 | [ConvertToupperCase.java](06-strings/ConvertToupperCase.java) | Capitalize the first letter of each word with StringBuilder |
 | [CompressString.java](06-strings/CompressString.java) | String compression: `aabbcc` → `a2b2c2` |
+| [Splitfunction.java](06-strings/Splitfunction.java) | `split(" ")`: breaking a sentence into words |
 
 ---
 
@@ -148,7 +149,10 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 1108 | Defanging an IP Address | [LC1108](leetcode/strings/LC1108_DefangingAnIPAddress.java) |
 | 1678 | Goal Parser Interpretation | [LC1678](leetcode/strings/LC1678_GoalParserInterpretation.java) |
 | 1768 | Merge Strings Alternately | [LC1768](leetcode/strings/LC1768_MergeStringsAlternately.java) |
+| 1816 | Truncate Sentence | [LC1816](leetcode/strings/LC1816_TruncateSentence.java) |
+| 2000 | Reverse Prefix of Word | [LC2000](leetcode/strings/LC2000_ReversePrefixOfWord.java) |
 | 2011 | Final Value of Variable After Performing Operations | [LC2011](leetcode/strings/LC2011_FinalValueOfVariableAfterPerformingOperations.java) |
+| 2114 | Maximum Number of Words Found in Sentences | [LC2114](leetcode/strings/LC2114_MaximumNumberOfWordsFoundInSentences.java) |
 | 3110 | Score of a String | [LC3110](leetcode/strings/LC3110_ScoreOfAString.java) |
 
 ### Matrix
