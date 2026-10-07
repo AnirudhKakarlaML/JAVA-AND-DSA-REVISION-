@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 47 · **GeeksforGeeks:** 1 · **Current topic:** Strings
+**LeetCode problems solved here:** 50 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
 ---
 
@@ -146,8 +146,11 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 |---|---|---|
 | 344 | Reverse String | [LC0344](leetcode/strings/LC0344_ReverseString.java) |
 | 709 | To Lower Case | [LC0709](leetcode/strings/LC0709_ToLowerCase.java) |
+| 771 | Jewels and Stones | [LC0771](leetcode/strings/LC0771_JewelsAndStones.java) |
 | 1108 | Defanging an IP Address | [LC1108](leetcode/strings/LC1108_DefangingAnIPAddress.java) |
+| 1662 | Check If Two String Arrays are Equivalent | [String concat](leetcode/strings/LC1662_CheckIfTwoStringArraysAreEquivalent.java) · [StringBuilder](leetcode/strings/LC1662_CheckIfTwoStringArraysAreEquivalent_StringBuilder.java) |
 | 1678 | Goal Parser Interpretation | [LC1678](leetcode/strings/LC1678_GoalParserInterpretation.java) |
+| 1704 | Determine if String Halves Are Alike | [LC1704](leetcode/strings/LC1704_DetermineIfStringHalvesAreAlike.java) |
 | 1768 | Merge Strings Alternately | [LC1768](leetcode/strings/LC1768_MergeStringsAlternately.java) |
 | 1816 | Truncate Sentence | [LC1816](leetcode/strings/LC1816_TruncateSentence.java) |
 | 2000 | Reverse Prefix of Word | [LC2000](leetcode/strings/LC2000_ReversePrefixOfWord.java) |
