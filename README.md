@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 50 · **GeeksforGeeks:** 1 · **Current topic:** Strings
+**LeetCode problems solved here:** 51 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
 ---
 
@@ -11,7 +11,7 @@ My Java fundamentals and Data Structures & Algorithms practice (LeetCode + Geeks
 ```text
 JAVA-AND-DSA-REVISION-/
 ├── 01-java-basics/          Variables, operators, conditionals, loops, patterns, functions
-├── 02-arrays/               Array basics, second largest, pairs, subarrays, prefix sum, max subarray
+├── 02-arrays/               Array basics, second largest, pairs, subarrays, prefix sum, max subarray, two pointers, sliding window
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
 ├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
 ├── 05-revision/             Revision files where I re-solve older concepts
@@ -55,6 +55,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [MaxSubarraySum_BruteForceAndPrefix.java](02-arrays/MaxSubarraySum_BruteForceAndPrefix.java) | Max subarray sum: brute force, then prefix sum |
 | [TwoPointers.java](02-arrays/TwoPointers.java) | Two-pointer technique: reverse an array in place |
 | [SlidingWindow.java](02-arrays/SlidingWindow.java) | Sliding window: max sum of a subarray of size k |
+| [SlidingWindow_LeftRightPointers.java](02-arrays/SlidingWindow_LeftRightPointers.java) | Sliding window with left/right pointers: max sum of a subarray of size k |
 
 ## 03 · Searching & Sorting
 
@@ -127,6 +128,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | 485 | Max Consecutive Ones | [LC0485](leetcode/arrays/LC0485_MaxConsecutiveOnes.java) |
 | 561 | Array Partition | [LC0561](leetcode/arrays/LC0561_ArrayPartition.java) |
 | 628 | Maximum Product of Three Numbers | [LC0628](leetcode/arrays/LC0628_MaximumProductOfThreeNumbers.java) |
+| 643 | Maximum Average Subarray I (sliding window) | [LC0643](leetcode/arrays/LC0643_MaximumAverageSubarrayI.java) |
 | 905 | Sort Array By Parity | [LC0905](leetcode/arrays/LC0905_SortArrayByParity.java) |
 | 1295 | Find Numbers with Even Number of Digits | [LC1295](leetcode/arrays/LC1295_FindNumbersWithEvenNumberOfDigits.java) |
 | 1431 | Kids With the Greatest Number of Candies | [LC1431](leetcode/arrays/LC1431_KidsWithGreatestNumberOfCandies.java) |
@@ -187,7 +189,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 ## Roadmap
 
 - [x] Java basics
-- [x] Arrays, prefix sum, Kadane's algorithm
+- [x] Arrays, prefix sum, Kadane's algorithm, two pointers, sliding window
 - [x] Basic sorting and binary search
 - [x] 2D arrays
 - [ ] Strings (in depth)
