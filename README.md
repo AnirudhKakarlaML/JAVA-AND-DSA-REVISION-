@@ -11,7 +11,7 @@ My Java fundamentals and Data Structures & Algorithms practice (LeetCode + Geeks
 ```text
 JAVA-AND-DSA-REVISION-/
 ├── 01-java-basics/          Variables, operators, conditionals, loops, patterns, functions
-├── 02-arrays/               Array basics, second largest, pairs, subarrays, prefix sum, max subarray, two pointers, sliding window
+├── 02-arrays/               Array basics, second largest, pairs, subarrays, prefix sum, max subarray, two pointers, sliding window (fixed + variable size)
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
 ├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
 ├── 05-revision/             Revision files where I re-solve older concepts
@@ -56,6 +56,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 | [TwoPointers.java](02-arrays/TwoPointers.java) | Two-pointer technique: reverse an array in place |
 | [SlidingWindow.java](02-arrays/SlidingWindow.java) | Sliding window: max sum of a subarray of size k |
 | [SlidingWindow_LeftRightPointers.java](02-arrays/SlidingWindow_LeftRightPointers.java) | Sliding window with left/right pointers: max sum of a subarray of size k |
+| [SlidingWindow_LongestSubarraySumAtMostK.java](02-arrays/SlidingWindow_LongestSubarraySumAtMostK.java) | Variable-size sliding window: longest subarray with sum ≤ k |
 
 ## 03 · Searching & Sorting
 
@@ -189,7 +190,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 ## Roadmap
 
 - [x] Java basics
-- [x] Arrays, prefix sum, Kadane's algorithm, two pointers, sliding window
+- [x] Arrays, prefix sum, Kadane's algorithm, two pointers, sliding window (fixed + variable size)
 - [x] Basic sorting and binary search
 - [x] 2D arrays
 - [ ] Strings (in depth)
