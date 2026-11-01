@@ -4,6 +4,8 @@ My Java fundamentals and Data Structures & Algorithms practice (LeetCode + Geeks
 
 **LeetCode problems solved here:** 51 · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
+> Main track is in Java. A separate [College Coursework · DSA in C](#college-coursework--dsa-in-c) section holds my university lab work — same concepts, different language, kept outside the main track.
+
 ---
 
 ## Repository structure
@@ -20,8 +22,9 @@ JAVA-AND-DSA-REVISION-/
 │   ├── arrays/
 │   ├── strings/
 │   └── matrix/
-└── geeksforgeeks/
-    └── strings/
+├── geeksforgeeks/
+│   └── strings/
+└── college-dsa-in-c/        (Not main track) College DSA lab work in C: stack & queue (array + linked list)
 ```
 
 LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded to 4 digits, so they sort in order. GeeksforGeeks files end in `GFG`.
@@ -187,6 +190,19 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 
 ---
 
+## College Coursework · DSA in C
+
+> **Not part of the main Java track.** This is my university DSA coursework, written in C. Kept here because a concept learnt is a concept learnt, whatever the language.
+
+| File | Topic |
+|---|---|
+| [Stack_Array.c](college-dsa-in-c/Stack_Array.c) | Stack using an array: push, pop, peek, size, display (overflow/underflow checks) |
+| [Stack_LinkedList.c](college-dsa-in-c/Stack_LinkedList.c) | Stack using a linked list: push, pop, peek, display with `malloc`/`free` |
+| [Queue_Array.c](college-dsa-in-c/Queue_Array.c) | Linear queue using an array: enqueue, dequeue, peek, display with front/rear |
+| [Queue_LinkedList.c](college-dsa-in-c/Queue_LinkedList.c) | Queue using a linked list: enqueue, dequeue, peek, display with front/rear pointers |
+
+---
+
 ## Roadmap
 
 - [x] Java basics
@@ -196,7 +212,7 @@ LeetCode files are named `LC<number>_<ProblemName>.java`, with the number padded
 - [ ] Strings (in depth)
 - [ ] Recursion & backtracking
 - [ ] OOP: classes, constructors, inheritance, polymorphism, abstraction, encapsulation
-- [ ] Linked lists, stacks, queues
+- [ ] Linked lists, stacks, queues (stack & queue done in C for college — Java pending)
 - [ ] Trees and graphs
 
 ## How to run a file
@@ -206,6 +222,12 @@ java 02-arrays/PrefixSum.java
 ```
 
 Java 11+ can run a single `.java` file directly without `javac`.
+
+For the C files:
+
+```bash
+gcc college-dsa-in-c/Stack_Array.c -o stack && ./stack
+```
 
 ---
 
