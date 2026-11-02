@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 51 · **GeeksforGeeks:** 1 · **Current topic:** Strings
+**LeetCode problems solved here:** 51 (Arrays 29 · Strings 13 · Matrix 9) · **GeeksforGeeks:** 1 · **Current topic:** Strings
 
 > Main track is in Java. A separate [College Coursework · DSA in C](#college-coursework--dsa-in-c) section holds my university lab work — same concepts, different language, kept outside the main track.
 
@@ -15,7 +15,7 @@ JAVA-AND-DSA-REVISION-/
 ├── 01-java-basics/          Variables, operators, conditionals, loops, patterns, functions
 ├── 02-arrays/               Array basics, second largest, pairs, subarrays, prefix sum, max subarray, two pointers, sliding window (fixed + variable size)
 ├── 03-searching-sorting/    Binary search, bubble, selection and insertion sort
-├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum
+├── 04-2d-arrays/            Matrix input/output, spiral traversal, diagonal sum, row sums
 ├── 05-revision/             Revision files where I re-solve older concepts
 ├── 06-strings/              String methods, comparison, substring, StringBuilder, palindromes, compression
 ├── leetcode/
