@@ -2,7 +2,7 @@
 
 My Java fundamentals and Data Structures & Algorithms practice (LeetCode + GeeksforGeeks), written in Java, as part of my software engineering and AI/ML placement preparation.
 
-**LeetCode problems solved here:** 51 (Arrays 29 · Strings 13 · Matrix 9) · **GeeksforGeeks:** 1 · **Current topic:** Strings
+**LeetCode problems solved here:** 51 (Arrays 29 · Strings 13 · Matrix 9) · **GeeksforGeeks:** 1 · **Current topic:** Strings · **Last updated:** 3 Nov 2026
 
 > Main track is in Java. A separate [College Coursework · DSA in C](#college-coursework--dsa-in-c) section holds my university lab work — same concepts, different language, kept outside the main track.
 
